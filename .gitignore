@@ -29,7 +29,6 @@ wheels/
 
 # Archivos de registro y datos
 *.log
-*.txt
 *.csv
 *.json
 *.db
